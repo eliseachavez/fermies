@@ -1,1 +1,1 @@
-"""testing for github"""
+"""Code for the brewing calculator"""
