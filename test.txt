@@ -1,1 +1,28 @@
 """Code for the brewing calculator"""
+
+"""
+Items to put into the calculator:
+ABV calculator (SG, Brix, Plato)
+IBU calculator
+SRM
+SG, boil, and FG,  
+Refractometer corrections for temperature and alcohol
+Malt entry (type), PPG values for each (float), Whether steeped, mashed, or other
+
+Yeast pitch rate calculator
+Yeast starter calculator
+
+Mash calculator:
+total mashable grains
+Total water for each type of mash (decoction, single, partial, etc.)
+total mash time (and possibly additions during the mash)
+
+Brewhouse efficiency calculator
+
+Priming/bottling/kegging calculator
+
+Brewing water calculator:
+ph (adjusting from given pH, additions, salts and ppm calculators, total hardness, start/finish volume)
+
+
+"""
