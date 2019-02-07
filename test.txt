@@ -13,6 +13,8 @@ Malt entry (type), PPG values for each (float), Whether steeped, mashed, or othe
 Yeast pitch rate calculator
 Yeast starter calculator
 
+hehe
+
 Mash calculator:
 total mashable grains
 Total water for each type of mash (decoction, single, partial, etc.)
