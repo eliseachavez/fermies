@@ -1,5 +1,6 @@
 """Code for the brewing calculator"""
 
+
 """
 Items to put into the calculator:
 ABV calculator (SG, Brix, Plato)
@@ -26,3 +27,4 @@ ph (adjusting from given pH, additions, salts and ppm calculators, total hardnes
 
 
 """
+
